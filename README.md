@@ -10,3 +10,12 @@ That's the aim.
 
 1. Create game loop
 2. Add in characters to speak orders (using open-source assets). 
+
+## Credits
+
+Icon image
+# <a href="https://www.flaticon.com/free-icons/smoothie" title="smoothie icons">Smoothie icons created by Flat Icons - Flaticon</a>
+
+Fonts
+LT Stopwatch - https://fontesk.com/lt-stopwatch-font/
+

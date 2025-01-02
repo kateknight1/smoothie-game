@@ -27,7 +27,7 @@ That's the aim.
     Ingredients have price for customers
     Customers pay money when ordering
     Customers can tip
-12. Kitchen bin - be able to cancel smoothie/empty blender, and reset ingredients list
+11. Kitchen bin - be able to cancel smoothie/empty blender, and reset ingredients list
 
 
 ## Current state of game
